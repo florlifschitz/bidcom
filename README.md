@@ -13,8 +13,8 @@
 
    Ejemplos:
 
-   `docker run bidcom diagnose.sh --ping`
-   `docker run bidcom setup_simulation.sh --files=3`
+   `docker run bidcom diagnose.sh --ping` <br>
+   `docker run bidcom setup_simulation.sh --files=3` 
    `docker run bidcom optional_git.sh https://github.com/docker/compose`
 
    
