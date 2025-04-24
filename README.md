@@ -23,18 +23,18 @@ Si no se indica ningun script especifico en el comando de run de la imagen, la m
 
 ### Parametros posibles para cada script 
 
-**diagnose.sh**
+**diagnose.sh** <br>
 `--ping` <br>
 `--disk` <br>
 `--mem` <br>
 `--versions` <br>
 
-**setup_simulation.sh**
+**setup_simulation.sh** <br>
 `--files=N` <br>
 `--log` <br>
 `--compress` <br>
 
-**optional_git.sh**
+**optional_git.sh** <br>
 `--clear` <br>
 
    
